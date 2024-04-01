@@ -1,0 +1,1 @@
+It Includes Complete Design of Simple School Website. One can go through regarding complete information about school, thier management committee, school academics and cocurricular activities, theit events and awards and more.
